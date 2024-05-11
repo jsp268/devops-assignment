@@ -1,1 +1,3 @@
+Updated the text file to display the difference
+
 This is a sample1 text file in dir1
